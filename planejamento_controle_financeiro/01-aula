@@ -1,0 +1,11 @@
+
+Há uma hierarquia de planos em uma companhia, que se define por seu prazo:
+
+* Estratégico - longo prazo (alterar o grau de individamento)
+* Administrativa - médio prazo (contratar novo empréstimo, financiamento)
+* Operacional - curto prazo (gerir o fluxo de caixa)
+
+Plano estratégico -> Plano de médio prazo -> plano anual -> orçamento anual
+
+execução <- **orçamento anual** <- ações corretivas <- análise dos desvios <- controle orçamentário <- execução <- **orçamento anual**
+
