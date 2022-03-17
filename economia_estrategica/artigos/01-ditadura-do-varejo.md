@@ -9,6 +9,7 @@
 
 - Excesso de oferta, visto que os produtos não se diferenciam tanto em qualidade, assim dá liberdade aos varejistas de pressionarem os forncedores por desconto
 - Uma das consequências é que o varejo exige que o fornecedor entregue 60% da produção entre os dias 20 e 30, e o resto a partir do dia 1. Isso encarece os custos de logística e armazenamento, contrariando práticas modernas de reposição contínua. Isso pode dificultar a implantação do ECR no Brasil (Resposta Eficiente do Consumidor), que possibilidade a eliminação de ineficiências na cadeia produtiva.
+
 ## Manual do comprador
 
 - Considere  o vendedor como nosso inimigo número 1
