@@ -10,6 +10,13 @@
 - controller define: sistemas de apoio e formato de relatório
 - implantação precisa: instruções, critérios, formulários e cronogramas
 
+## Responsabilidades
+
+- analistas de orçamento na área de controladoria, dedicadas ao Orçamento
+- comitê orçamentário, subordinado ao controller, que faz esses processos
+- controller: define o sistema de apoio (software), formato dos relatórios
+- controladoria: aferição do orçamento e medidas corretivas
+
 ## Tipos
 
 - *bottom up*: participativo, ouve todos, democrático, mais lento) e *top down* (ditatorial, mais rápido, alta administração que faz)
@@ -37,4 +44,4 @@ Objetivos e metas -> (Orçamento de vendas -> Orçamento de produção -> Orçam
 - políticos, econômico-financeiros, mercado específico da empresa
 - variáveis:
   - controláveis: decorrente de decisões administrativas
-  - não controláveis: fatores externos like dólar, combustível,
+  - não controláveis: fatores externos like dólar, combustível
